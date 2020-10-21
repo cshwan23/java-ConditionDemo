@@ -103,21 +103,22 @@ false 이면 중괄호를 띄어넘고 실행이 된다.
 	
 	
 5. 변수와 비교 연산자 그리고 조건문
+
 LoginDemo
-	프로그래머가 되면
-	소비자로서의 삶에서 벗어나
-	생산자로서의 삶이 된다면
-	정말 가볍게 여겨지지않고 귀한게 늘어나게된다..
+
+프로그래머가 되면 소비자로서의 삶에서 벗어나
+생산자로서의 삶이 된다면
+정말 가볍게 여겨지지않고 귀한게 늘어나게된다..
 	
 
- 	String id = args[0];
-	if (id.equals("egoing")) {
+ 		String id = args[0];
+		if (id.equals("egoing")) {
 		System.out.println("right");
-	}else{
+		}else{
 		System.out.println("wrong");
-	}
+		}
 	
- String id = args[0];
+String id = args[0];
 배열을 의미하는데 args[0]이 첫번째 입력값(egoing)
 의미한다고 이해하자.
 입력한 값이 egoing과 같은지 비교하는 구문은
