@@ -59,7 +59,7 @@ false 이면 중괄호를 띄어넘고 실행이 된다.
 		}
 		
 		
-	4. else if 문
+4. else if 문
 		
 		 if (true/false) {
 		
